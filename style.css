@@ -1,0 +1,489 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    width: 1440px;
+height: 1024px;
+
+/* Cream BG */
+
+background: #F8E9DD;
+}
+.card1{
+    display: flex;
+    width: 540px;
+    height: 125px;
+    background: #EC755D;
+border-radius: 20px;
+margin-top: 182px;
+margin-left: 450px;
+}
+.p1{
+    margin-top: 27px;
+    margin-left: 32px;
+   width: 96px;
+height: 23px;
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 23px;
+
+/* White */
+
+color: #FFFFFF;
+}
+.p2{
+width: 117px;
+height: 42px;
+margin-top: 8px;
+margin-left: 32px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 42px;
+/* identical to box height */
+
+
+/* Card White */
+
+color: #FFFBF6;
+}
+.logo{
+    width: 72px;
+    height: 48px;
+    margin-top: 39px;
+    margin-left: 280px;
+}
+.card2{
+    width: 540px;
+    height: 511px;
+    margin-top: 24px;
+    margin-left: 450px;
+    background: #FFFBF6;
+border-radius: 20px;
+}
+.p3{
+ margin-top: 32px;
+ margin-left: 40px;
+width: 350px;
+height: 42px;
+
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 42px;
+/* identical to box height */
+
+
+/* Dark Brown */
+
+color: #382314;
+}
+.hafta{
+    display: flex;
+    width: 460px;
+    height: 178px;
+    margin-top: 66px;
+    margin-left: 40px;
+}
+.bir1{
+    width: 50.36px;
+    height: 50px;
+    background: #EC755D;
+border-radius: 5px;
+margin-top: 100px;
+}
+.mon{
+ margin-bottom: 0;  
+height: 20px;
+
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 20px;
+/* identical to box height */
+
+text-align: center;
+
+/* Medium Brown */
+
+color: #92857A;
+}
+.se{
+    margin-bottom: 0;  
+   height: 20px;
+   
+   
+   font-family: 'DM Sans';
+   font-style: normal;
+   font-weight: 400;
+   font-size: 15px;
+   line-height: 20px;
+   /* identical to box height */
+   
+   text-align: center;
+   
+   /* Medium Brown */
+   
+   color: #92857A;
+}
+.cho{
+    margin-bottom: 0;  
+   height: 20px;
+   
+   
+   font-family: 'DM Sans';
+   font-style: normal;
+   font-weight: 400;
+   font-size: 15px;
+   line-height: 20px;
+   /* identical to box height */
+   
+   text-align: center;
+   
+   /* Medium Brown */
+   
+   color: #92857A;
+}
+.pay{
+    margin-bottom: 0;  
+   height: 20px;
+   
+   
+   font-family: 'DM Sans';
+   font-style: normal;
+   font-weight: 400;
+   font-size: 15px;
+   line-height: 20px;
+   /* identical to box height */
+   
+   text-align: center;
+   
+   /* Medium Brown */
+   
+   color: #92857A;
+}
+.jum{
+    margin-bottom: 0;  
+   height: 20px;
+   
+   
+   font-family: 'DM Sans';
+   font-style: normal;
+   font-weight: 400;
+   font-size: 15px;
+   line-height: 20px;
+   /* identical to box height */
+   
+   text-align: center;
+   
+   /* Medium Brown */
+   
+   color: #92857A;
+}
+.sha{
+    margin-bottom: 0;  
+   height: 20px;
+   
+   
+   font-family: 'DM Sans';
+   font-style: normal;
+   font-weight: 400;
+   font-size: 15px;
+   line-height: 20px;
+   /* identical to box height */
+   
+   text-align: center;
+   
+   /* Medium Brown */
+   
+   color: #92857A;
+}
+.yak{
+    margin-bottom: 0;  
+   height: 20px;
+   
+   
+   font-family: 'DM Sans';
+   font-style: normal;
+   font-weight: 400;
+   font-size: 15px;
+   line-height: 20px;
+   /* identical to box height */
+   
+   text-align: center;
+   
+   /* Medium Brown */
+   
+   color: #92857A;
+}
+.ikki{
+    margin-left: 17.91px;
+}
+.ikki2{
+    background: #EC755D;
+    border-radius: 5px;
+    margin-top: 50px;
+    width: 50.36px;
+    height: 100px;
+}
+.uch{
+    background: #76B5BC;
+border-radius: 5px;
+width: 50.36px;
+height: 150px;
+}
+.tort{
+    width: 50.36px;
+    height: 89px;
+    margin-top: 61px;
+
+    background: #EC755D;
+border-radius: 5px;
+}
+.besh{
+    width: 50.36px;
+    height: 67px;
+    margin-top: 83px;
+
+    background: #EC755D;
+border-radius: 5px;
+}
+.olti{
+    width: 50.36px;
+    height: 124px;
+    margin-top: 26px;
+
+    background: #EC755D;
+border-radius: 5px;
+}
+.yetti{
+    width: 50.36px;
+    height: 73px;
+    margin-top: 77px;
+
+    background: #EC755D;
+border-radius: 5px;
+}
+hr{
+    width: 460px;
+    height: 2px;
+    background: #F8E9DD;
+    border-radius: 1px;
+    margin-top: 32px;
+    margin-left: 40px;
+}
+.card3{
+    width: 460px;
+    height: 87px;
+    margin-top: 32px;
+    margin-left: 40px;
+
+}
+.p10{
+
+height: 23px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 23px;
+
+/* Medium Brown */
+
+color: #92857A;
+}
+.card4{
+    display: flex;
+}
+.p11{
+    
+width: 184px;
+height: 62px;
+
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 62px;
+
+/* Dark Brown */
+
+color: #382314;
+}
+.p12{
+   margin-left: 223px;
+width: 53px;
+height: 23px;
+
+/* Body (Bold) */
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 23px;
+text-align: right;
+
+/* Dark Brown */
+
+color: #382314;
+}
+.p13{
+    margin-top: 1px;
+    margin-left: 160px;
+width: 133px;
+height: 23px;
+
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 23px;
+
+/* Medium Brown */
+
+color: #92857A;
+}
+.bir1:hover{
+    background: #FF9B86;
+}
+.ikki2:hover{
+    background: #FF9B86;
+}
+.tort:hover{
+    background: #FF9B86;
+}
+.besh:hover{
+    background: #FF9B86;
+}
+.olti:hover{
+    background: #FF9B86;
+}
+.yetti:hover{
+    background: #FF9B86;
+}
+.uch:hover{
+    background: #B4E0E5;
+}
+.div1{
+    position: absolute;
+    top: 395px;
+    left: 615px;
+    width: 75px;
+    height: 40px;
+
+    background: #382314;
+border-radius: 5px;
+}
+.b{
+   margin-top: 8px;
+   margin-left: 7.74px;
+width: 59px;
+height: 23px;
+
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 23px;
+
+/* Card White */
+
+color: #FFFBF6;
+}
+.div2{
+    position: absolute;
+    top: 500px;
+    left: 475px;
+    width: 75px;
+    height: 40px;
+
+    background: #382314;
+border-radius: 5px;
+}
+.div3{
+    position: absolute;
+    top: 475px;
+    left: 886px;
+    width: 75px;
+    height: 40px;
+
+    background: #382314;
+border-radius: 5px;
+}
+.div4{
+    position: absolute;
+    top: 450px;
+    left: 546px;
+    width: 75px;
+    height: 40px;
+
+    background: #382314;
+border-radius: 5px;
+}
+.div5{
+    position: absolute;
+    top: 455px;
+    left: 682px;
+    width: 75px;
+    height: 40px;
+
+    background: #382314;
+border-radius: 5px;
+}
+.div6{
+    position: absolute;
+    top: 480px;
+    left: 750px;
+    width: 75px;
+    height: 40px;
+
+    background: #382314;
+border-radius: 5px;
+}
+.div7{
+    position: absolute;
+    top: 425px;
+    left: 819px;
+    width: 75px;
+    height: 40px;
+
+    background: #382314;
+border-radius: 5px;
+}
+
+
+
+@media screen and (max-width:376px) {
+    body{
+        width: 375px;
+        height: 667px;
+
+        /* Cream BG */
+
+        background: #F8E9DD;
+    }
+    .card1{
+        width: 343px;
+        height: 97px;
+    }
+
+
+
+
+
+}
